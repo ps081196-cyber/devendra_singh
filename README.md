@@ -68,10 +68,10 @@ status:     Open to Opportunities
 
 ### 🛠️ Building
 
-- 📦 Operations control-tower dashboards
-- 🛒 E-commerce performance analytics
+- 📦 Supply-chain risk and demand forecasting
+- 🛠️ Predictive maintenance and anomaly detection
 - 🤖 AI-assisted SQL and data-analysis tools
-- 📈 Sales KPI and reporting dashboards
+- 🐳 Deployable analytics APIs with Docker
 
 </td>
 <td width="50%" valign="top">
@@ -127,6 +127,19 @@ status:     Open to Opportunities
 [![AI SQL Server Data Analyst](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=ai-sql-server-data-analyst&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/ai-sql-server-data-analyst)
 [![Logistics Performance Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=logistics-performance-intelligence&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/logistics-performance-intelligence)
 [![Fulfillment Workforce Analytics](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=fulfillment-workforce-analytics&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/fulfillment-workforce-analytics)
+
+</div>
+
+### 🧠 Predictive Operations & Data Engineering
+
+<div align="center">
+
+[![Supply Chain Delivery Risk](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=supply-chain-delivery-risk&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/supply-chain-delivery-risk)
+[![Warehouse Predictive Maintenance](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=warehouse-predictive-maintenance&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/warehouse-predictive-maintenance)
+[![Inventory Demand Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=inventory-demand-forecasting&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/inventory-demand-forecasting)
+[![Automated Data Quality Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=automated-data-quality-pipeline&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/automated-data-quality-pipeline)
+[![Operations Anomaly Detector](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=operations-anomaly-detector&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/operations-anomaly-detector)
+[![Dockerized Analytics App](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=dockerized-analytics-app&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/dockerized-analytics-app)
 
 </div>
 
