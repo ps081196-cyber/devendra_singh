@@ -21,6 +21,3 @@ python agent.py --file sales.xlsx --question "What is the monthly revenue trend?
 
 Only enable generated-code execution for trusted prompts and non-sensitive data.
 
-## Attribution
-
-Adapted for this portfolio from [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects/tree/main/agents/08-data-analysis-agent), created by ashishpatel26 and distributed under the MIT License. See [THIRD_PARTY_LICENSES.md](../../THIRD_PARTY_LICENSES.md).
