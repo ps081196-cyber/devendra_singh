@@ -146,8 +146,6 @@ status:     Open to Opportunities
 - [SQL Query Agent](projects/sql-query-agent) — Ask questions about a SQLite database in natural language.
 - [Data Analysis Agent](projects/data-analysis-agent) — Analyze CSV and Excel files using pandas and an LLM-powered agent.
 
-> These two learning projects are adapted from [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) under the MIT License. Full attribution is available in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
-
 ---
 
 ## 📊 GitHub Metrics
