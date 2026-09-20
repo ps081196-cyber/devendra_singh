@@ -1,65 +1,194 @@
-<h1 align="center">Hi, I'm Devendra Singh</h1>
-<h3 align="center">Data Analyst | Operations Analytics | SQL & Python</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ps081196@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/ps081196-cyber"><img src="https://img.shields.io/badge/GitHub-ps081196--cyber-181717?style=flat-square&logo=github" alt="GitHub"></a>
-</p>
+# Devendra Singh
 
-## About Me
+### Data Analyst · Operations Analytics · SQL · Python · Power BI
 
-I build practical analytics solutions that turn operational, sales, and e-commerce data into useful decisions. My current focus is SQL, Python, pandas, dashboard development, process improvement, and AI-assisted data analysis.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=Turning+Data+into+Business+Decisions;Building+SQL%2C+Python+%26+Power+BI+Projects;Operations+%26+Logistics+Analytics;Exploring+AI-Powered+Data+Analysis" alt="Typing introduction" />
+</a>
 
-- Building analytics projects for operations and logistics
-- Learning advanced SQL, Microsoft SQL Server, Python, and cloud data tools
-- Interested in Data Analyst, Operations Analyst, and Team Lead opportunities in India
-- Focused on clear KPIs, actionable dashboards, and measurable business impact
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ps081196@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ps081196-cyber)
+![Profile Views](https://komarev.com/ghpvc/?username=ps081196-cyber&label=Profile%20Views&color=0077B5&style=for-the-badge)
 
-## Core Skills
-
-| Area | Tools |
-|---|---|
-| Data analysis | Python, pandas, NumPy, Excel |
-| Databases | SQL, Microsoft SQL Server, MySQL, SQLite |
-| Visualization | Power BI, interactive dashboards, KPI reporting |
-| Operations | Logistics analytics, SLA tracking, root-cause analysis, process improvement |
-| Cloud and automation | AWS fundamentals, GitHub Actions, AI-assisted workflows |
-
-## Featured Projects
-
-### Original portfolio work
-
-- [Operations Control Tower](https://github.com/ps081196-cyber/operations-control-tower) — Operations monitoring, KPI visibility, and exception management.
-- [E-commerce Operations Analytics](https://github.com/ps081196-cyber/ecommerce-operations-analytics) — Analysis of sales and operational performance.
-- [Sales Dashboard](https://github.com/ps081196-cyber/sales-dshboard) — Sales reporting and visual KPI tracking.
-- [Portfolio Website](https://github.com/ps081196-cyber/myportfolio) — Personal project portfolio built with HTML.
-
-### Open-source learning adaptations
-
-- [SQL Query Agent](projects/sql-query-agent) — Converts natural-language questions into SQL for a SQLite database.
-- [Data Analysis Agent](projects/data-analysis-agent) — Analyzes CSV and Excel data with pandas and an LLM-powered agent.
-
-The two agent projects are adapted from [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) under the MIT License. Attribution and license details are preserved in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
-
-## Technology Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ps081196-cyber&show_icons=true&theme=transparent&hide_border=true" alt="Devendra's GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps081196-cyber&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
-</p>
+</div>
 
 ---
 
-<p align="center">Open to opportunities in data analytics, operations, logistics, and process improvement.</p>
+<div align="center">
+
+### 🚀 *“I turn operational and business data into clear insights, practical dashboards, and better decisions.”*
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👋 About Me
+
+I'm **Devendra Singh**, an aspiring **Data and Operations Analyst** focused on solving practical business problems using **SQL, Python, Excel, Power BI, and automation**.
+
+My projects cover e-commerce analytics, sales reporting, logistics operations, KPI monitoring, and AI-assisted data exploration. I enjoy converting raw data into dashboards and recommendations that teams can act on.
+
+- 📊 Building analytics solutions for operations and logistics
+- 🗄️ Developing skills in SQL and Microsoft SQL Server
+- 🐍 Using Python and pandas for data cleaning and analysis
+- ☁️ Exploring AWS data engineering and automation
+- 💼 Open to Data Analyst, Operations Analyst, Logistics, and Team Lead roles
+
+</td>
+<td width="40%" valign="top">
+
+## ⚡ At a Glance
+
+```yaml
+name:       Devendra Singh
+location:   India
+focus:      Data & Operations Analytics
+tools:      SQL, Python, Power BI, Excel
+database:   SQL Server, MySQL, SQLite
+interests:  Logistics, E-commerce, AI
+learning:   AWS & Data Engineering
+status:     Open to Opportunities
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 Currently Building & Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+
+- 📦 Operations control-tower dashboards
+- 🛒 E-commerce performance analytics
+- 🤖 AI-assisted SQL and data-analysis tools
+- 📈 Sales KPI and reporting dashboards
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Learning
+
+- Advanced SQL and query optimization
+- Microsoft SQL Server with Python
+- Power BI data modelling and DAX
+- AWS data pipelines and analytics services
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="58" height="58" />
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="58" height="58" />
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="58" height="58" />
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="58" height="58" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=03A9F4)
+![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Operations Control Tower](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=operations-control-tower&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/operations-control-tower)
+[![E-commerce Operations Analytics](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=ecommerce-operations-analytics&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/ecommerce-operations-analytics)
+[![Sales Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=sales-dshboard&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/sales-dshboard)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=myportfolio&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/myportfolio)
+
+</div>
+
+### 🤖 AI-Assisted Analytics Learning Projects
+
+- [SQL Query Agent](projects/sql-query-agent) — Ask questions about a SQLite database in natural language.
+- [Data Analysis Agent](projects/data-analysis-agent) — Analyze CSV and Excel files using pandas and an LLM-powered agent.
+
+> These two learning projects are adapted from [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) under the MIT License. Full attribution is available in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ps081196-cyber&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2" alt="GitHub statistics"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps081196-cyber&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Most used languages"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ps081196-cyber&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ps081196-cyber&theme=github_dark" width="100%" alt="Profile summary"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ps081196-cyber&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ps081196-cyber)
+
+</div>
+
+---
+
+## 🎯 What I Bring
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 📊 Analytics
+Data cleaning, KPI design, trend analysis, dashboarding, and actionable reporting.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🚚 Operations
+Logistics monitoring, SLA tracking, exception analysis, and process improvement.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🤖 Automation
+Python workflows, AI-assisted analysis, repeatable reporting, and data tools.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+
+### Let's connect and build something useful with data.
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ps081196@gmail.com)
+[![View Projects](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ps081196-cyber?tab=repositories)
+
+</div>
