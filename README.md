@@ -120,6 +120,18 @@ status:     Open to Opportunities
 
 ## 📌 Featured Projects
 
+### 🚀 New Analytics & AI Projects
+
+<div align="center">
+
+[![AI SQL Server Data Analyst](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=ai-sql-server-data-analyst&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/ai-sql-server-data-analyst)
+[![Logistics Performance Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=logistics-performance-intelligence&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/logistics-performance-intelligence)
+[![Fulfillment Workforce Analytics](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=fulfillment-workforce-analytics&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/fulfillment-workforce-analytics)
+
+</div>
+
+### 📊 Additional Portfolio Work
+
 <div align="center">
 
 [![Operations Control Tower](https://github-readme-stats.vercel.app/api/pin/?username=ps081196-cyber&repo=operations-control-tower&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/ps081196-cyber/operations-control-tower)
