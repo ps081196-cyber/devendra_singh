@@ -1,15 +1,65 @@
-# 💫 About Me:
-i'm self employed
+<h1 align="center">Hi, I'm Devendra Singh</h1>
+<h3 align="center">Data Analyst | Operations Analytics | SQL & Python</h3>
 
+<p align="center">
+  <a href="mailto:ps081196@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/ps081196-cyber"><img src="https://img.shields.io/badge/GitHub-ps081196--cyber-181717?style=flat-square&logo=github" alt="GitHub"></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ps081196-cyber&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ps081196-cyber&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ps081196-cyber&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About Me
+
+I build practical analytics solutions that turn operational, sales, and e-commerce data into useful decisions. My current focus is SQL, Python, pandas, dashboard development, process improvement, and AI-assisted data analysis.
+
+- Building analytics projects for operations and logistics
+- Learning advanced SQL, Microsoft SQL Server, Python, and cloud data tools
+- Interested in Data Analyst, Operations Analyst, and Team Lead opportunities in India
+- Focused on clear KPIs, actionable dashboards, and measurable business impact
+
+## Core Skills
+
+| Area | Tools |
+|---|---|
+| Data analysis | Python, pandas, NumPy, Excel |
+| Databases | SQL, Microsoft SQL Server, MySQL, SQLite |
+| Visualization | Power BI, interactive dashboards, KPI reporting |
+| Operations | Logistics analytics, SLA tracking, root-cause analysis, process improvement |
+| Cloud and automation | AWS fundamentals, GitHub Actions, AI-assisted workflows |
+
+## Featured Projects
+
+### Original portfolio work
+
+- [Operations Control Tower](https://github.com/ps081196-cyber/operations-control-tower) — Operations monitoring, KPI visibility, and exception management.
+- [E-commerce Operations Analytics](https://github.com/ps081196-cyber/ecommerce-operations-analytics) — Analysis of sales and operational performance.
+- [Sales Dashboard](https://github.com/ps081196-cyber/sales-dshboard) — Sales reporting and visual KPI tracking.
+- [Portfolio Website](https://github.com/ps081196-cyber/myportfolio) — Personal project portfolio built with HTML.
+
+### Open-source learning adaptations
+
+- [SQL Query Agent](projects/sql-query-agent) — Converts natural-language questions into SQL for a SQLite database.
+- [Data Analysis Agent](projects/data-analysis-agent) — Analyzes CSV and Excel data with pandas and an LLM-powered agent.
+
+The two agent projects are adapted from [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) under the MIT License. Attribution and license details are preserved in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
+
+## Technology Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ps081196-cyber&show_icons=true&theme=transparent&hide_border=true" alt="Devendra's GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ps081196-cyber&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ps081196-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">Open to opportunities in data analytics, operations, logistics, and process improvement.</p>
