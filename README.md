@@ -161,6 +161,23 @@ status:     Open to Opportunities
 
 ---
 
+## 🎓 Certifications
+
+<div align="center">
+
+[![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Transportation%20%26%20Logistics-1f6feb?style=for-the-badge)](certifications/README.md)
+[![Operations](https://img.shields.io/badge/Operations-Management-238636?style=for-the-badge)](certifications/README.md)
+[![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](certifications/README.md)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](certifications/README.md)
+[![Customer Service](https://img.shields.io/badge/Customer-Service-D14836?style=for-the-badge)](certifications/README.md)
+[![Data Analytics](https://img.shields.io/badge/Data-Analytics-8957e5?style=for-the-badge)](certifications/README.md)
+
+**[View all professional certifications →](certifications/README.md)**
+
+</div>
+
+---
+
 ## 📊 GitHub Metrics
 
 <div align="center">
