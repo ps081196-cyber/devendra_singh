@@ -124,6 +124,7 @@ status:     Open to Opportunities
 
 <div align="center">
 
+[![Transportation Exception Control Tower](./assets/cards/transportation-exception-control-tower.svg)](https://github.com/ps081196-cyber/transportation-exception-control-tower)
 [![AI SQL Server Data Analyst](./assets/cards/ai-sql-server-data-analyst.svg)](https://github.com/ps081196-cyber/ai-sql-server-data-analyst)
 [![Logistics Performance Intelligence](./assets/cards/logistics-performance-intelligence.svg)](https://github.com/ps081196-cyber/logistics-performance-intelligence)
 [![Fulfillment Workforce Analytics](./assets/cards/fulfillment-workforce-analytics.svg)](https://github.com/ps081196-cyber/fulfillment-workforce-analytics)
